@@ -42,7 +42,7 @@ using namespace std;
 #define USER_ACTION_INDEX 1
 
 typedef struct test {
-    vector<vector<int>> log;
+    vector<vector<int> > log;
     int k;
 } test;
 
